@@ -14,8 +14,8 @@ com/visualpathit/account/utils/MemcachedUtils.class
 com/visualpathit/account/controller/ElasticSearchController.class
 com/visualpathit/account/utils/RabbitMqUtil.class
 com/visualpathit/account/service/ProducerServiceImpl.class
-com/visualpathit/account/service/UserServiceImpl.class
 com/visualpathit/account/service/ConsumerServiceImpl.class
+com/visualpathit/account/service/UserServiceImpl.class
 com/visualpathit/account/service/SecurityService.class
 com/visualpathit/account/service/UserService.class
 com/visualpathit/account/repository/RoleRepository.class
